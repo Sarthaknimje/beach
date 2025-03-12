@@ -40,7 +40,7 @@ BeachSafe is a modern web application that provides real-time beach conditions, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ApurvaBardapurkar/beach.git
+   git clone https://github.com/Sarthaknimje/beach.git
    cd beach/frontend
    ```
 

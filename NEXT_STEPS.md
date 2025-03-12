@@ -10,9 +10,9 @@ We've prepared the BeachSafe project for GitHub by:
 
 ## Option 1: Get Write Access to the Repository
 
-If you need to push to the original repository (https://github.com/ApurvaBardapurkar/beach.git), you'll need to:
+If you need to push to the original repository (https://github.com/Sarthaknimje/beach.git), you'll need to:
 
-1. Contact the repository owner (ApurvaBardapurkar) to grant you write access
+1. Contact the repository owner (Sarthaknimje) to grant you write access
 2. Set up your GitHub credentials on your local machine
 3. Run the following command to push:
    ```bash
@@ -23,7 +23,7 @@ If you need to push to the original repository (https://github.com/ApurvaBardapu
 
 If you want to contribute via a fork:
 
-1. Go to https://github.com/ApurvaBardapurkar/beach
+1. Go to https://github.com/Sarthaknimje/beach
 2. Click the "Fork" button to create a copy in your account
 3. Clone your forked repository:
    ```bash
